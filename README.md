@@ -39,7 +39,7 @@ Performed visual analysis on:
 
 📸 **Check the screenshots above in the repository for selected EDA visualizations.**
 ## 📸 Screenshots Folder
-👉 [Click to open the screenshots folder](./screenshots)
+📸 **[Screenshots available here](https://github.com/heirsofhades/PRODIGY_DA_Task2/tree/main/Screenshot)**
 
 ---
 
