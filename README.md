@@ -38,7 +38,7 @@ Performed visual analysis on:
 - Correlation heatmap
 
 📸 **Check the screenshots above in the repository for selected EDA visualizations.**
-
+📂 All visualizations: [screenshots/ folder](./screenshots) 📸
 ---
 
 ## 🧠 Key Insights
