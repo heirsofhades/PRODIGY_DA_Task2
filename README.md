@@ -13,7 +13,7 @@ Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset
 ## 📁 Dataset
 
 - Source: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
-- File used: `train.csv`
+- Raw file included: `data/train.csv` ✅
 
 ---
 
