@@ -59,6 +59,13 @@ Performed visual analysis on:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-## LinkedIm Post 
-  [https://www.linkedin.com/posts/bhavesh-uchainiya-734651136_prodigyinfotech-dataanalyst-python-activity-7348086811279220738-DE9B?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEzB9gB68oVgeCqSHu01XNoWfb_ViJtAeg]
+---
+
+## 🔗 Social Proof
+
+📢 I shared this project on LinkedIn as part of my learning journey:  
+👉 [View LinkedIn Post](https://www.linkedin.com/posts/bhavesh-uchainiya-734651136_prodigyinfotech-dataanalyst-python-activity-7348086811279220738-DE9B?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEzB9gB68oVgeCqSHu01XNoWfb_ViJtAeg)
+
+Your feedback, suggestions, or just a 👍 are always welcome!
+
 ---
